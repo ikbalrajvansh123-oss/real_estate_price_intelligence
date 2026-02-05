@@ -9,7 +9,7 @@ to reflect real-world ML production practices.
 ---
 
 ## 🚀 Live Demo
-👉 (Add Streamlit Cloud link here after deployment)
+👉 https://housepricepredicted.streamlit.app/
 
 ---
 
