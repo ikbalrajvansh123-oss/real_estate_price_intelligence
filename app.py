@@ -43,7 +43,7 @@ USD_TO_INR = get_usd_to_inr()
 # HEADER
 
 st.markdown("""
-<h1 style='text-align:center;'>🏢 Real Estate Price Intelligence</h1>
+<h1 style='text-align:center;'>🏢 California Real Estate Price Intelligence</h1>
 <p style='text-align:center; color:gray;'>
 AI-powered property valuation using Machine Learning
 </p>
